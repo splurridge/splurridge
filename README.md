@@ -1,0 +1,3 @@
+- 👋 Hi, I’m James
+- 👀 I’m interested in UI/UX and Visual Design
+- 🌱 I’m currently learning Mobile Development
